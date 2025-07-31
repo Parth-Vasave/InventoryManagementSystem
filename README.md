@@ -107,9 +107,6 @@ cd server && npm run seed
 npm run dev
 ```
 
-### Default Login
-- **Email**: admin@supplyflow.com
-- **Password**: admin123
 
 ## 📊 Business Logic Implementation
 
