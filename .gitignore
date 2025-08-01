@@ -81,7 +81,7 @@ dist
 
 # Gatsby files
 .cache/
-public
+# public (commented out to allow React public folder)
 
 # Storybook build outputs
 .out
@@ -173,6 +173,9 @@ jspm_packages/
 
 # React build files
 client/build/
+
+# Allow screenshots in public folder
+!client/public/*.png
 
 # Production build
 build/
